@@ -1,0 +1,12 @@
+{
+  "name": "ThingSolution/SimpleRoute",
+  "description": "The Simple Route for PHP HTML Request",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Michael",
+      "email": "hungnv038@gmail.com"
+    }
+  ]
+}
